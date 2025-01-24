@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently learning Chinese
-
+My name is Chanda Malembe AKA Jøsh. I'm an avid book reader, movie enthusaist and weeb (well not so much; but I do like both anime and manga). I enjoy running and doing body weight exercises. I love to learn new things, I'm currently learning Chinese. 我的中国名字是李书亚。
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dsc.gg/cinephile-central) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joshchandamalembe/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/josh_chanda_malembe/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanda-malembe-37b675244/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/chandamalembe/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Enigmatic_shadow/) 
