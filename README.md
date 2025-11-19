@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! You can call me Jøsh. I'm an avid book reader, movie enthusaist and weeb (well not so much). I enjoy running and calisthenics, having fun and learning new things, I'm currently learning Chinese! 我的中国名字是李书亚。
+Hey there! You can call me Jøsh. I'm a creative thinker and problem solver in the tech space. Outside work, I am a movie and language enthusiast, weeb (selectively), and an avid reader. I enjoy running, calisthenics, having fun, and learning new things every day!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanda-malembe-37b675244/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joshchandamalembe/)
