@@ -1,5 +1,5 @@
 # 👨🏾‍💻 About Me:
-Hey there! You can call me Jøsh. I'm a creative thinker and problem solver in the tech space. Outside work, I love movies and I'm a language enthusiast, weeb (selectively), and an avid reader. I enjoy running, calisthenics, having fun, and learning new things every day!
+*Hello there!* You can call me Jøsh. I'm a creative thinker and problem solver in the tech space. Outside work, I'm a language enthusiast, a selective weeb, and an avid reader. I love movies, enjoy running, calisthenics, having fun, and learning new things every day!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanda-malembe-37b675244/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joshchandamalembe/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j_o_s_h_c_m/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/994540074425393193)
